@@ -14,13 +14,6 @@
   
   [https://github.com/anissia-net/anissia-web](https://github.com/anissia-net/anissia-web) (미공개)
 
-## 진행상태
-![](images/i1.png)
-![](images/i2.png)
-![](images/i3.png)
-![](images/i4.png)
-![](images/i5.png)
-
 ## 문서
 - [애니메이션 편성표 API 문서](api_anime_schdule.md)
 - [애니메이션 순위 집계 기준 문서](doc_anime_rank.md)
