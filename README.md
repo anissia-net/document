@@ -17,6 +17,12 @@
   Vue.js 3, Typescript
   
   [https://github.com/anissia-net/anissia-web](https://github.com/anissia-net/anissia-web) (미공개)
+  
+ 
+- ### 안드로이드 프로젝트
+  kotlin
+  
+  [https://github.com/anissia-net/anissia-android](https://github.com/anissia-net/anissia-android) (미공개)
 
 ## 문서
 - [애니메이션 편성표 API 문서](api_anime_schdule.md)
