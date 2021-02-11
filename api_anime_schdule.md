@@ -37,7 +37,7 @@ https://anissia.net/api/anime/schedule/<week>
 |startDate|text(10)|O|시작일|2019-01-02|값존재 && week(0-6) && startDate >= 금일: 제목앞에 [01/02] 처럼 표기 권장|
 |endDate|text(10)|O|종료일|2019-08-16|값존재 && week(0-6) && endDate <= 금일: 제목앞에 [完] 표기 권장|
 |website|text(128)|O|공식사이트|https://anissia.net|-|
-|captionCount|int(10)|X|자막참여자수|2|5분 단위 캐싱 (권장안함)|
+|captionCount|int(10)|X|자막참여자수|2|약 5분 단위로 캐싱됨<br/>자막정보(실시간)와 괴리발생 가능<br/>사용권장안함|
 
 - 모든 날짜/시간은 Asia/Seoul(+09:00) 을 적용
 
