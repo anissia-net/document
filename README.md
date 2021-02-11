@@ -20,7 +20,7 @@
   
  
 - ### 안드로이드 프로젝트
-  kotlin
+  kotlin, android
   
   [https://github.com/anissia-net/anissia-android](https://github.com/anissia-net/anissia-android) (미공개)
 
