@@ -28,6 +28,6 @@
 - [애니메이션 순위 집계 기준 문서](doc_anime_rank.md)
 
 ## 참고
-  #### 애니편성표 서드파티 프로젝트
-  (서드파티에 대한 문의 사항은 각 프로젝트에 해주시기 바랍니다.)
-  - [안드로이드 AniSched](https://github.com/qkdxorjs1002/AniSched-Android)
+  - **애니편성표 서드파티 프로젝트**\
+    (서드파티에 대한 문의 사항은 각 프로젝트에 해주시기 바랍니다.)
+    - [안드로이드 AniSched](https://github.com/qkdxorjs1002/AniSched-Android)
