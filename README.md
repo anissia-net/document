@@ -10,11 +10,11 @@
 - 현재 애니시아의 소스코드는 비공개이며 완성 후 공개할 예정이다.
 - ### 코어(backend) 프로젝트
   Kotlin, Spring, JPA, QueryDSL, Elasticsearch\
-  [https://github.com/anissia-net/anissia-core](https://github.com/anissia-net/anissia-core) (미공개)
+  [https://github.com/anissia-net/anissia-core](https://github.com/anissia-net/anissia-core)
 
 - ### 웹(frontend) 프로젝트
   Vue.js 3, Typescript\
-  [https://github.com/anissia-net/anissia-web](https://github.com/anissia-net/anissia-web) (미공개)
+  [https://github.com/anissia-net/anissia-web](https://github.com/anissia-net/anissia-web)
   
  
 - ### 안드로이드 프로젝트
