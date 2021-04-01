@@ -7,11 +7,11 @@
 
 ## 프로젝트
 
-- ### 코어(backend) 프로젝트
+- ### 코어 프로젝트 (backend)
   Kotlin, Spring, JPA, QueryDSL, Elasticsearch\
   [https://github.com/anissia-net/anissia-core](https://github.com/anissia-net/anissia-core)
 
-- ### 웹(frontend) 프로젝트
+- ### 웹 프로젝트 (frontend)
   Vue.js 3, Typescript\
   [https://github.com/anissia-net/anissia-web](https://github.com/anissia-net/anissia-web)
   
