@@ -88,5 +88,5 @@ https://anissia.net/api/anime/caption/animeNo/<animeNo>
 
 # 참고
 **애니편성표 소스**
-* [애니메이션 2015 버전](https://github.com/anissia-net/anissia-web/blob/master/src/views/schedule/2015.vue)
-* [애니메이션 2009 버전](https://github.com/anissia-net/anissia-web/blob/master/src/views/schedule/2009.vue)
+* [애니메이션 2015 버전](https://github.com/anissia-net/anissia-web-2022/blob/master/src/page/schedule/2015.vue)
+* [애니메이션 2009 버전](https://github.com/anissia-net/anissia-web-2022/blob/master/src/page/schedule/2009.vue)

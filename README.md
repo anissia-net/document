@@ -13,7 +13,7 @@
 
 - ### 웹 프로젝트 (frontend)
   Vue.js 3, Typescript\
-  [https://github.com/anissia-net/anissia-web](https://github.com/anissia-net/anissia-web)
+  [https://github.com/anissia-net/anissia-web-2022](https://github.com/anissia-net/anissia-web-2022)
   
  
 - ### 안드로이드 프로젝트
