@@ -1,7 +1,7 @@
 # 애니메이션 편성표 API
 |버전|작성자|날짜|비고|
 |-|-|-|-|
-|2.4|박용서|2023-02-04|api 서버 분리로 인한 주소 변경|
+|2.4|박용서|2023-02-05|API 서버 분리로 인한 주소 변경|
 |2.1|박용서|2021-02-11|필드 추가|
 |2.0|박용서|2020-12-19|API 주소변경 / 필드 변경|
 |1.2|박용서|2019-12-25|Cross Origin 접근 허용|
@@ -14,7 +14,7 @@
 # 애니메이션 목록
 ### 요청
 ```
-https://api.anissia.net/api/anime/schedule/<week>
+https://api.anissia.net/anime/schedule/<week>
 ```
 * **week**: text(1)
 
@@ -47,7 +47,7 @@ https://api.anissia.net/api/anime/schedule/<week>
 # 애니메이션 자막 정보
 ### 요청
 ```
-https://api.anissia.net/api/anime/caption/animeNo/<animeNo>
+https://api.anissia.net/anime/caption/animeNo/<animeNo>
 ```
 
 * **animeNo**: int(20) - **애니메이션 목록**의 응답 참조
@@ -80,7 +80,7 @@ https://api.anissia.net/api/anime/caption/animeNo/<animeNo>
    // 이 예제는 간결한 소스코드상 fetch를 사용하였지만, fetch는 IE에서 지원되지 않음으로 다른 방법 사용권장
    // 브라우저의 개발자도구를 열고 간단하게 아래 예제를 실행할 수 있음.
    // - GitHub는 기본정책이 Cross Origin 차단임으로 새탭을 열어서 개발자도구 사용.
-   fetch('https://api.anissia.net/api/anime/schedule/0') // 0: 일요일
+   fetch('https://api.anissia.net/anime/schedule/0') // 0: 일요일
        .then(e => e.json())
        .then(list => list.forEach(node => console.log(`${node.time} ${node.subject}`)));
    ```
