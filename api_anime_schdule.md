@@ -35,7 +35,7 @@ https://api.anissia.net/anime/schedule/<week>
 |status|int(1)|X|ON: 반영중<br/>OFF: 결방|ON|OFF일경우 제목앞에 [결방] 표시 권장|
 |time|text(10)|O|week 0-6: 시간 <br/> week 7-8: 날짜|시간 00:00 <br/>날짜 2019-08-01|날짜가 `yyyy-MM-99` 일경우 `yyyy-MM` 으로 치환 권장 <br/>날짜가 `yyyy-99-99` 일경우 `yyyy` 으로 치환 권장 <br/> 공백 -> 'N/A' 치환 권장|
 |subject|text(100)|X|제목|애니메이션 제목|-|
-|originalSubject|text(100)|X|원제|애니메이션 원제|-|
+|originalSubject|text(100)|O|원제|애니메이션 원제|-|
 |genres|text(64)|X|장르 (다중값)|모험,판타지| **쉼표(,)**로 구분되며 치환사용을 권장|
 |startDate|text(10)|O|시작일|2019-01-02|값존재 && week(0-6) && startDate >= 금일: 제목앞에 [01/02] 처럼 표기 권장|
 |endDate|text(10)|O|종료일|2019-08-16|값존재 && week(0-6) && endDate <= 금일: 제목앞에 [完] 표기 권장|
