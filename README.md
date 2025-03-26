@@ -9,11 +9,11 @@
 
 - ### 코어 프로젝트 (backend)
   Kotlin, Spring, JPA, QueryDSL, Elasticsearch\
-  [https://github.com/anissia-net/anissia-core](https://github.com/anissia-net/anissia-core)
+  [https://github.com/anissia-net/core](https://github.com/anissia-net/core)
 
 - ### 웹 프로젝트 (frontend)
   Vue.js 3, Typescript\
-  [https://github.com/anissia-net/anissia-web](https://github.com/anissia-net/anissia-web)
+  [https://github.com/anissia-net/web](https://github.com/anissia-net/web)
   
  
 - ### 안드로이드 프로젝트

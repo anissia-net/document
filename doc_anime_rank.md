@@ -48,5 +48,5 @@
     - 마찬가지로 분기도 91.25일이 아닌 84일을 기준으로 한다.
     
 ## 참고
-- [애니메이션 순위 구현 메인코드](https://github.com/anissia-net/anissia-core/blob/master/src/main/kotlin/anissia/domain/anime/core/service/UpdateAnimeRankService.kt)
-- [애니메이션 순위 합산 스케줄링](https://github.com/anissia-net/anissia-core/blob/master/src/main/kotlin/anissia/infrastructure/configuration/ScheduleConfiguration.kt)
+- [애니메이션 순위 구현 메인코드](https://github.com/anissia-net/core/blob/master/src/main/kotlin/anissia/domain/anime/core/service/UpdateAnimeRankService.kt)
+- [애니메이션 순위 합산 스케줄링](https://github.com/anissia-net/core/blob/master/src/main/kotlin/anissia/infrastructure/configuration/ScheduleConfiguration.kt)
